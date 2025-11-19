@@ -1,16 +1,16 @@
-# EduConnect-Mobile
+# educonnect_final
 
-# DESCRIPTION
-- Simple mobile app designed using Dart programming and the Flutter framework on VS Code. Implements a basic all-in-one university application that links lecturers, students and clubs
+A new Flutter project.
 
-# FEATURES
-- Firebase/Firestore implementation to carry out CRUD operations on data
-- Multiple modules with different functionality - Student, Lecturer, Clubs
-- Central Login that navigates to dashboards based on user role
-- User-friendly UI
-- Inter-connectivity - Students can view assignments, classes created by lecturers, events created by clubs
+## Getting Started
 
-# HOW TO RUN 
-- Click the green Code button and Download ZIP
-- Reccomended - Download Android Studio and set up/configure an emulator phone. Open the extracted folder in VS Code, and enter the command "flutter run" in terminal. The program should run on the emulator phone.
-- Feel free to contact me if you've got issues :)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

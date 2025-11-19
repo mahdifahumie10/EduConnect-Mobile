@@ -1,0 +1,33 @@
+name: educonnect_final
+description: EduConnect mobile app
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase core
+  firebase_core: ^2.22.0
+
+  # Firebase Firestore (compatible version)
+  cloud_firestore: ^4.17.5
+
+  # Firebase Authentication (optional for future password login)
+  firebase_auth: ^4.8.0
+
+  # UI enhancements (optional)
+  cupertino_icons: ^1.0.5
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
