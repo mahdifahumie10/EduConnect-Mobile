@@ -1,16 +1,12 @@
-# educonnect_final
+# DESCRIPTION
+- Simple mobile application developed using the Flutter framework on VS Code that creates an all-in-one university app integrating students, lecturers and members
 
-A new Flutter project.
+# FEATURES
+- Firebase firestore to carry out CRUD operations on relevant data like Assignments, Events, Club Members etc.
+- Interconnectivity between Lecturer, Member and Student Modules - Students can view Events created by Clubs, Assignments and Classes created by Lecturers
+- Aesthetic UI Design with the use of dashcards
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# HOW TO RUN
+- Click the green Code button and Download Zip
+- Reccomended - Download Android Studio and configure a suitable emulator phone. Open the extraced folder on VS Code, and run the code "flutter run" on the terminal, the program should run on the emulator phone.
+- Feel free to contact me if any issues :)
